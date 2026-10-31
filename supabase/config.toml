@@ -1,0 +1,2 @@
+[functions.poll-api]
+verify_jwt = false
